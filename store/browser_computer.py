@@ -1,0 +1,27 @@
+from models.browser_computer import BrowserComputer
+
+computers_with_browsers = [
+    BrowserComputer(1, 3),
+    BrowserComputer(1, 2),
+    BrowserComputer(1, 1),
+    BrowserComputer(2, 3),
+    BrowserComputer(3, 1),
+    BrowserComputer(3, 5),
+    BrowserComputer(4, 3),
+    BrowserComputer(5, 2),
+    BrowserComputer(6, 2),
+    BrowserComputer(7, 1),
+    BrowserComputer(8, 1),
+    BrowserComputer(9, 1),
+    BrowserComputer(9, 2),
+    BrowserComputer(9, 3),
+    BrowserComputer(9, 4),
+    BrowserComputer(10, 4),
+    BrowserComputer(11, 4),
+    BrowserComputer(11, 5),
+    BrowserComputer(12, 1),
+    BrowserComputer(12, 2),
+    BrowserComputer(12, 3),
+    BrowserComputer(12, 4),
+    BrowserComputer(12, 5),
+]
